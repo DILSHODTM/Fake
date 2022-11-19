@@ -1,0 +1,12 @@
+.bi{
+    color: lightblue;
+}
+.bi:hover{
+    color: red;
+}
+.btn:active{
+    color: red;
+}
+.text-da{
+    color:red;
+}
